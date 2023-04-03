@@ -28,7 +28,7 @@ twitter_username: bHAI
 github_username:  bHAI
 
 # Build settings
-theme: minima
+theme: default
 plugins:
   - jekyll-feed
 
