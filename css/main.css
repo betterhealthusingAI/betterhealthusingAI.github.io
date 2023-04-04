@@ -1824,5 +1824,5 @@ section {
 }
 .br {
             display: block;
-            margin-bottom: 0em;
+            margin-bottom: -2em;
      }
